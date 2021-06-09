@@ -1,4 +1,5 @@
 # Digital-Humanities-100-project
+## Project Description:
 This project explores a dataset collected from a series of speed dating events.  More specifically, I investigate the relationship between major of choice and attribute preferences in potential partners.
 
 The files attached in this repository include:
