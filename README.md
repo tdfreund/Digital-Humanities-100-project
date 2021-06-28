@@ -8,5 +8,7 @@ Speed dating dataset downloaded from kaggle.
 Jupyter notebook from google colab used for exploratory data analysis (T-test on STEM vs. non-STEM major attribute preferences) and visualization creation (Bar Charts/Bubble Charts/Histograms identifying of majors that value intelligence most vs. attractiveness most).
 
 Poster made on lucidchart providing in depth description of project and results.
+Poster link: https://drive.google.com/file/d/1Pu556qvW0w8p7U7RxV07hO4C0KLBw2Md/view?usp=sharing
 
-Video presentation link describing my process, project journey, and results: https://drive.google.com/file/d/1Pu556qvW0w8p7U7RxV07hO4C0KLBw2Md/view?usp=sharing
+Video presentation link describing my process, project journey, and results:
+Video link: https://drive.google.com/file/d/1Pu556qvW0w8p7U7RxV07hO4C0KLBw2Md/view?usp=sharing
